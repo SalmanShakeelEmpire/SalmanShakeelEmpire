@@ -1,4 +1,4 @@
-# You found me! Busted!
+# Fancy seeing you here!
 
 I am a front-end developer who focuses on accessibility, performance, and UX at Empire Life. 
 
