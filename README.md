@@ -8,4 +8,4 @@ I am a front-end developer who focuses on accessibility, performance, and UX at 
 - ♿    I am also helping improve accessibility ratings for multiple projects across Empire Life.
 - 🌐    Eric, Wendy and I actively work together to keep our company wide [Design System](https://xd.adobe.com/view/c7c41e6a-accb-48da-413e-83b7dba9193c-b1f5/screen/f2a8f614-8803-4ec5-b117-d40fa1279da5/) up to date.
 - 😴    Sometimes, I procrastinate by looking for ways to implement performance hacks and shave microseconds off of our site's load times.
-- 💬    I am fairly active on EmpireLife Slack. Hit me up if you have questions about accessibility, design, or front-end stuff! Or if you just want to chat 💁‍♂️ 
+- 👋    I am fairly active on EmpireLife Slack. Hit me up if you have questions about accessibility, design, or front-end stuff! Or if you just want to chat 💁‍♂️ 
