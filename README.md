@@ -1,4 +1,4 @@
-# Fancy seeing you here!
+# Hi there!
 
 I am a front-end developer who focuses on accessibility, performance, and UX at Empire Life. 
 
